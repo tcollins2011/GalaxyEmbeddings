@@ -2,7 +2,7 @@
 
 ## Description
 
-[Provide a brief description of your project here]
+A description
 
 ## Table of Contents
 
